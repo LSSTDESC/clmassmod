@@ -61,7 +61,7 @@ def matchCosmo():
 
         cCosmo.setCosmology('curCosmo', dict(H0 = curcosmo.H0,
                                              Om0 = curcosmo.omega_m,
-                                             OL0 = curcosmo.omega_l,
+                                             Ode0 = curcosmo.omega_l,
                                              Ob0 = 0.049,
                                              sigma8 = 0.9,
                                              ns = 0.95))

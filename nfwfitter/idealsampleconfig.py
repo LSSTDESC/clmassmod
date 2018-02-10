@@ -1,5 +1,5 @@
-import readMXXL
-simreader = readMXXL.MXXLSimReader()
+import readers.readMXXL
+simreader = readers.readMXXL.MXXLSimReader()
 
 import nfwfit
 model = nfwfit.NFW_MC_Model()
