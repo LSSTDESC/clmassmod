@@ -19,7 +19,6 @@ targetz=0.9
 import galaxypicker
 galaxypicker = galaxypicker.AllGalaxyPicker()
 
-
 import betacalcer
 betacalcer = betacalcer.FixedBeta()
 beta = 0.3
