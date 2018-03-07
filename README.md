@@ -5,7 +5,13 @@
 * We welcome all contributions from the community, and ask that
   behavior and interactions follow the LSST-DESC code of conduct:
   http://lsst-desc.org/sites/default/files/DESCProfessionalConductPolicies-2.pdf
-  
+
+## Contributing
+
+* Alex Malz has put together a sketched out workflow for contributing to this repository:
+https://docs.google.com/presentation/d/1UfrGJe2C-H9JVH6Gn2pklfbztF1tc7W4bVVMNszziiY/edit?usp=sharing 
+* If you would like to be added as a collaborator, please contact one of the current admins (Camille Avestruz: avestruz@uchicago.edu, Alex Malz: aimalz@nyu.edu)
+
 ## Getting started: 
 python setup.py develop
 
